@@ -1,0 +1,275 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b7b57bd8-7ef5-4894-a415-3b500d5bc0a5" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/dist/js/i18n/af.js" beforeDir="false" afterPath="$PROJECT_DIR$/dist/js/i18n/af.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/js/i18n/ar.js" beforeDir="false" afterPath="$PROJECT_DIR$/dist/js/i18n/ar.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/js/i18n/az.js" beforeDir="false" afterPath="$PROJECT_DIR$/dist/js/i18n/az.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/js/i18n/bg.js" beforeDir="false" afterPath="$PROJECT_DIR$/dist/js/i18n/bg.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/js/i18n/bs.js" beforeDir="false" afterPath="$PROJECT_DIR$/dist/js/i18n/bs.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/js/i18n/ca.js" beforeDir="false" afterPath="$PROJECT_DIR$/dist/js/i18n/ca.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/js/i18n/cs.js" beforeDir="false" afterPath="$PROJECT_DIR$/dist/js/i18n/cs.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/js/i18n/da.js" beforeDir="false" afterPath="$PROJECT_DIR$/dist/js/i18n/da.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/js/i18n/de.js" beforeDir="false" afterPath="$PROJECT_DIR$/dist/js/i18n/de.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/js/i18n/dsb.js" beforeDir="false" afterPath="$PROJECT_DIR$/dist/js/i18n/dsb.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/js/i18n/el.js" beforeDir="false" afterPath="$PROJECT_DIR$/dist/js/i18n/el.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/js/i18n/en.js" beforeDir="false" afterPath="$PROJECT_DIR$/dist/js/i18n/en.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/js/i18n/es.js" beforeDir="false" afterPath="$PROJECT_DIR$/dist/js/i18n/es.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/js/i18n/et.js" beforeDir="false" afterPath="$PROJECT_DIR$/dist/js/i18n/et.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/js/i18n/eu.js" beforeDir="false" afterPath="$PROJECT_DIR$/dist/js/i18n/eu.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/js/i18n/fa.js" beforeDir="false" afterPath="$PROJECT_DIR$/dist/js/i18n/fa.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/js/i18n/fi.js" beforeDir="false" afterPath="$PROJECT_DIR$/dist/js/i18n/fi.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/js/i18n/fr.js" beforeDir="false" afterPath="$PROJECT_DIR$/dist/js/i18n/fr.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/js/i18n/gl.js" beforeDir="false" afterPath="$PROJECT_DIR$/dist/js/i18n/gl.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/js/i18n/he.js" beforeDir="false" afterPath="$PROJECT_DIR$/dist/js/i18n/he.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/js/i18n/hi.js" beforeDir="false" afterPath="$PROJECT_DIR$/dist/js/i18n/hi.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/js/i18n/hr.js" beforeDir="false" afterPath="$PROJECT_DIR$/dist/js/i18n/hr.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/js/i18n/hsb.js" beforeDir="false" afterPath="$PROJECT_DIR$/dist/js/i18n/hsb.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/js/i18n/hu.js" beforeDir="false" afterPath="$PROJECT_DIR$/dist/js/i18n/hu.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/js/i18n/hy.js" beforeDir="false" afterPath="$PROJECT_DIR$/dist/js/i18n/hy.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/js/i18n/id.js" beforeDir="false" afterPath="$PROJECT_DIR$/dist/js/i18n/id.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/js/i18n/is.js" beforeDir="false" afterPath="$PROJECT_DIR$/dist/js/i18n/is.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/js/i18n/it.js" beforeDir="false" afterPath="$PROJECT_DIR$/dist/js/i18n/it.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/js/i18n/ja.js" beforeDir="false" afterPath="$PROJECT_DIR$/dist/js/i18n/ja.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/js/i18n/km.js" beforeDir="false" afterPath="$PROJECT_DIR$/dist/js/i18n/km.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/js/i18n/ko.js" beforeDir="false" afterPath="$PROJECT_DIR$/dist/js/i18n/ko.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/js/i18n/lt.js" beforeDir="false" afterPath="$PROJECT_DIR$/dist/js/i18n/lt.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/js/i18n/lv.js" beforeDir="false" afterPath="$PROJECT_DIR$/dist/js/i18n/lv.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/js/i18n/mk.js" beforeDir="false" afterPath="$PROJECT_DIR$/dist/js/i18n/mk.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/js/i18n/ms.js" beforeDir="false" afterPath="$PROJECT_DIR$/dist/js/i18n/ms.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/js/i18n/nb.js" beforeDir="false" afterPath="$PROJECT_DIR$/dist/js/i18n/nb.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/js/i18n/nl.js" beforeDir="false" afterPath="$PROJECT_DIR$/dist/js/i18n/nl.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/js/i18n/pl.js" beforeDir="false" afterPath="$PROJECT_DIR$/dist/js/i18n/pl.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/js/i18n/ps.js" beforeDir="false" afterPath="$PROJECT_DIR$/dist/js/i18n/ps.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/js/i18n/pt-BR.js" beforeDir="false" afterPath="$PROJECT_DIR$/dist/js/i18n/pt-BR.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/js/i18n/pt.js" beforeDir="false" afterPath="$PROJECT_DIR$/dist/js/i18n/pt.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/js/i18n/ro.js" beforeDir="false" afterPath="$PROJECT_DIR$/dist/js/i18n/ro.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/js/i18n/ru.js" beforeDir="false" afterPath="$PROJECT_DIR$/dist/js/i18n/ru.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/js/i18n/sk.js" beforeDir="false" afterPath="$PROJECT_DIR$/dist/js/i18n/sk.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/js/i18n/sl.js" beforeDir="false" afterPath="$PROJECT_DIR$/dist/js/i18n/sl.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/js/i18n/sr-Cyrl.js" beforeDir="false" afterPath="$PROJECT_DIR$/dist/js/i18n/sr-Cyrl.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/js/i18n/sr.js" beforeDir="false" afterPath="$PROJECT_DIR$/dist/js/i18n/sr.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/js/i18n/sv.js" beforeDir="false" afterPath="$PROJECT_DIR$/dist/js/i18n/sv.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/js/i18n/th.js" beforeDir="false" afterPath="$PROJECT_DIR$/dist/js/i18n/th.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/js/i18n/tk.js" beforeDir="false" afterPath="$PROJECT_DIR$/dist/js/i18n/tk.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/js/i18n/tr.js" beforeDir="false" afterPath="$PROJECT_DIR$/dist/js/i18n/tr.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/js/i18n/uk.js" beforeDir="false" afterPath="$PROJECT_DIR$/dist/js/i18n/uk.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/js/i18n/vi.js" beforeDir="false" afterPath="$PROJECT_DIR$/dist/js/i18n/vi.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/js/i18n/zh-CN.js" beforeDir="false" afterPath="$PROJECT_DIR$/dist/js/i18n/zh-CN.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/js/i18n/zh-TW.js" beforeDir="false" afterPath="$PROJECT_DIR$/dist/js/i18n/zh-TW.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/js/select2.full.js" beforeDir="false" afterPath="$PROJECT_DIR$/dist/js/select2.full.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/js/select2.js" beforeDir="false" afterPath="$PROJECT_DIR$/dist/js/select2.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/js/select2.min.js" beforeDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/.tmp/" />
+    <ignored path="$PROJECT_DIR$/temp/" />
+    <ignored path="$PROJECT_DIR$/tmp/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Gruntfile.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="782">
+              <caret line="34" column="14" selection-start-line="34" selection-start-column="6" selection-end-line="34" selection-end-column="14" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/package.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="360">
+              <caret line="45" column="19" selection-start-line="45" selection-start-column="19" selection-end-line="45" selection-end-column="19" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/dist/js/select2.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="213">
+              <caret line="4996" column="23" lean-forward="true" selection-start-line="4996" selection-start-column="23" selection-end-line="4996" selection-end-column="23" />
+              <folding>
+                <element signature="e#106#113#1" expanded="true" />
+                <element signature="e#48#55#1" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/dist/js/select2.min.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret column="3" lean-forward="true" selection-start-column="3" selection-end-column="3" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>scrollAf</find>
+      <find>scrollAfter</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="2560" />
+    <option name="y" value="23" />
+    <option name="width" value="2560" />
+    <option name="height" value="1333" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="select2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="select2" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="select2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="select2" type="462c0819:PsiDirectoryNode" />
+              <item name="dist" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="select2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="select2" type="462c0819:PsiDirectoryNode" />
+              <item name="dist" type="462c0819:PsiDirectoryNode" />
+              <item name="js" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="editor.config.ad.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b7b57bd8-7ef5-4894-a415-3b500d5bc0a5" name="Default Changelist" comment="" />
+      <created>1548240483789</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1548240483789</updated>
+      <workItem from="1548240485622" duration="1700000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="1700000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="2560" y="23" width="2560" height="1333" extended-state="0" />
+    <layout>
+      <window_info id="Grunt " side_tool="true" />
+      <window_info id="Favorites" side_tool="true" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24970461" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" />
+      <window_info anchor="bottom" id="Terminal" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/Gruntfile.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="782">
+          <caret line="34" column="14" selection-start-line="34" selection-start-column="6" selection-end-line="34" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="45" column="19" selection-start-line="45" selection-start-column="19" selection-end-line="45" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dist/js/select2.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="213">
+          <caret line="4996" column="23" lean-forward="true" selection-start-line="4996" selection-start-column="23" selection-end-line="4996" selection-end-column="23" />
+          <folding>
+            <element signature="e#106#113#1" expanded="true" />
+            <element signature="e#48#55#1" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dist/js/select2.min.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="3" lean-forward="true" selection-start-column="3" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ScopeChooserConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
