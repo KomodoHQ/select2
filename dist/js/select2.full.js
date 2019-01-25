@@ -4900,7 +4900,7 @@ S2.define('select2/defaults',[
       maximumSelectionLength: 0,
       minimumResultsForSearch: 0,
       selectOnClose: false,
-      scrollAfterSelect: true,
+      scrollAfterSelect: false,
       sorter: function (data) {
         return data;
       },
